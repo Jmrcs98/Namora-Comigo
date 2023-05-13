@@ -1,7 +1,11 @@
-# Namora-Comigo
+# Namora-Comigo  :heart:
 
 - Projeto realizado para aprimorar os conhecimentos.
 
-# Biblioteca usada
+# Biblioteca usada :book:
 
-- Tkinter
+- Tkinter.
+
+# Como usar a aplicação :trophy:
+
+- Baixar o repositório e executar o arquivo `main.py`.
