@@ -7,5 +7,5 @@
 - Tkinter.
 
 # Como usar a aplicação :trophy:
-
+- Precisa ter o `Python` instalado no seu computador.
 - Baixar o repositório e executar o arquivo `main.py`.
